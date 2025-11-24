@@ -1,3 +1,16 @@
+import random
+
+def course_recommender(course_list):
+    """
+    Returns 3 random course recommendations from the given list.
+    """
+    try:
+        return random.sample(course_list, 3)
+    except:
+        return course_list[:3]
+
+
+
 ds_course = [['Machine Learning Crash Course by Google [Free]', 'https://developers.google.com/machine-learning/crash-course'],
              ['Machine Learning A-Z by Udemy','https://www.udemy.com/course/machinelearning/'],
              ['Machine Learning by Andrew NG','https://www.coursera.org/learn/machine-learning'],
