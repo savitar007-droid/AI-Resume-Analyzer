@@ -27,18 +27,16 @@
   <p>
     <small align="justify">
       Built with 🤍 by 
-      <a href="https://dnoobnerd.netlify.app/">Deepak Padhi</a> through 
-      <a href="https://www.linkedin.com/in/mrbriit/">Dr Bright --(Data Scientist)</a>
+      <a href="https://dnoobnerd.netlify.app/">Aditya Agrawal</a> through 
+      
      </small>
   </p>
-  <small align="justify">🚀 A Project Submitted for the partial fulfilment of the degree B.sc CS at 
-    <a href="https://kirticollege.edu.in/">Kirti College</a> during academic year 2022-23
-  </small>
+ 
 </div><br/><br/>
 
 ## About the Project 🥱
 <div align="center">
-    <br/><img src="https://raw.githubusercontent.com/deepakpadhi986/AI-Resume-Analyzer/main/screenshots/RESUME.png" alt="screenshot" /><br/><br/>
+
     <p align="justify"> 
       A tool which parses information from a resume using natural language processing and finds the keywords, cluster them onto sectors based on their keywords. 
       And lastly show recommendations, predictions, analytics to the applicant / recruiter based on keyword matching.
